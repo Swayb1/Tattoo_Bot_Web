@@ -1,0 +1,15 @@
+pyttsx3
+speechrecognition
+pillow
+requests
+selenium
+webdriver-manager
+pypiwin32
+pygame
+virtualenv
+pyaudio
+elevenlabs
+pydub
+gtts
+ffmpeg
+avconv
